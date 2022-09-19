@@ -1,0 +1,15 @@
+D:\Лилия мои доки\GB\Control\bin\Debug\net6.0\Control.exe
+D:\Лилия мои доки\GB\Control\bin\Debug\net6.0\Control.deps.json
+D:\Лилия мои доки\GB\Control\bin\Debug\net6.0\Control.runtimeconfig.json
+D:\Лилия мои доки\GB\Control\bin\Debug\net6.0\Control.dll
+D:\Лилия мои доки\GB\Control\bin\Debug\net6.0\Control.pdb
+D:\Лилия мои доки\GB\Control\obj\Debug\net6.0\Control.csproj.AssemblyReference.cache
+D:\Лилия мои доки\GB\Control\obj\Debug\net6.0\Control.GeneratedMSBuildEditorConfig.editorconfig
+D:\Лилия мои доки\GB\Control\obj\Debug\net6.0\Control.AssemblyInfoInputs.cache
+D:\Лилия мои доки\GB\Control\obj\Debug\net6.0\Control.AssemblyInfo.cs
+D:\Лилия мои доки\GB\Control\obj\Debug\net6.0\Control.csproj.CoreCompileInputs.cache
+D:\Лилия мои доки\GB\Control\obj\Debug\net6.0\Control.dll
+D:\Лилия мои доки\GB\Control\obj\Debug\net6.0\refint\Control.dll
+D:\Лилия мои доки\GB\Control\obj\Debug\net6.0\Control.pdb
+D:\Лилия мои доки\GB\Control\obj\Debug\net6.0\Control.genruntimeconfig.cache
+D:\Лилия мои доки\GB\Control\obj\Debug\net6.0\ref\Control.dll
